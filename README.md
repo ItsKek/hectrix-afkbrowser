@@ -13,5 +13,4 @@ PyQt5.QtWebEngineWidgets.
 for any support tell me in dms itskekoff#2077
 
 TODO:
-- Dark theme by default.
-- Delete light theme
+- Dark theme
