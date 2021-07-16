@@ -10,6 +10,7 @@ class MainWindow(QMainWindow):
         QMainWindow.__init__(self)
         self.mainfolder = os.path.dirname(__file__)
         self.img_folder = os.path.join(self.mainfolder, "icons")
+        self.setStyleSheet("background-color: gray;")
         self.setWindowTitle("Afk browser")
         self.setGeometry(150,50,900,600)
         self.setWindowIcon(QIcon(os.path.join(self.img_folder,"globe-green.png")))
