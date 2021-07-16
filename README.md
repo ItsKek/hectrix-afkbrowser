@@ -13,4 +13,4 @@ PyQt5.QtWebEngineWidgets.
 for any support tell me in dms itskekoff#2077
 
 TODO:
-1. Web browser written in C#
+1. -
